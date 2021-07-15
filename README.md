@@ -2,6 +2,8 @@
  🔭 I'm a Software Engineer with 5+ years of experience in software development and test automation, also skilled in CI/CD environment creation.
 
  🌱 Currently developing my skills in Java/Spring and Angular as a Full-stack Java Developer position
+
+ 💬 Reach me and ask anything at [nkozera.pl](https://www.nkozera.pl)
  
 <!--
 **norbertkozera/norbertkozera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
